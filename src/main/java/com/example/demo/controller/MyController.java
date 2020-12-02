@@ -8,6 +8,7 @@ public class MyController {
 
 	@RequestMapping("welcome")
 	public String getHello() {
-		return "welcome";
+		String s = "Hello";
+		return s+"welcome";
 	}
 }
