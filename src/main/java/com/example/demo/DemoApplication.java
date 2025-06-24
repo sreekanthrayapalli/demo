@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DemoApplication {
-
+//feature 1 changes are done here
 	public static void main(String[] args) {
 		System.out.println("this is sample");
 //this is sameple test for git
